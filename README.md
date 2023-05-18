@@ -13,9 +13,14 @@ This is a web application for managing employee information using React.js, Spri
 1. Employee Creation: Users can create new employee records by providing necessary information such as first name, last name, and email.
 ![Screenshot](/images/create.png)
 3. Employee List: The website displays a list of all employees with their basic details, allowing users to view the information at a glance.
-4. Employee Details: Users can click to view an employee information, including first name, last name, and email.
-5. Employee Editing: Users have the ability to edit employee information.
-6. Employee Deletion: Users can delete an employee record if it is no longer required.
+![Screenshot](/images/viewEmployees.png)
+5. Employee Details: Users can click to view an employee information, including first name, last name, and email.
+![Screenshot](/images/viewEmployee.png)
+7. Employee Editing: Users have the ability to edit employee information.
+![Screenshot](/images/edit.png)
+9. Employee Deletion: Users can delete an employee record if it is no longer required.
+![Screenshot](/images/delete.png)
+
 
 ## Getting Started
 
